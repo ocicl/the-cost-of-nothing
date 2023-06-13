@@ -1,0 +1,10 @@
+* the-cost-of-nothing
+
+Determine the cost of things in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/marcoheisig/the-cost-of-nothing.git   |
+| commit  | f364029  |
+| systems | the-cost-of-nothing |
+|---------+-------------------------------------------|
+
