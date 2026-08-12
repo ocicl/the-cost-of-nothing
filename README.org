@@ -8,4 +8,4 @@ Determine the cost of things in Common Lisp.
 | systems | the-cost-of-nothing |
 |---------+-------------------------------------------|
 
- 
+  
